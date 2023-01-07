@@ -1,0 +1,17 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "scripts": {
+    "start": "nodemon serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.13.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "description": ""
+}
